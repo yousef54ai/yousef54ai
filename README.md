@@ -13,7 +13,7 @@ I enjoy crafting thoughtful, intelligent apps that genuinely help people.
 - Speech recognition with error detection algorithms  
 - Arabic text processing and pattern matching
 - Real-time feedback system for learning
-- Try it out: [Google Play]([https://duckduckgo.com](https://play.google.com/store/apps/details?id=com.yousef54ai.tasmeea&hl=en-US)).
+- Try it out: [Google Play](https://play.google.com/store/apps/details?id=com.yousef54ai.tasmeea&hl=en-US).
 
 ## Currently
 Student at Saudi Electronic University.
